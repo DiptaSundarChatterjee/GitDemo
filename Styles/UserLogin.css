@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* body{
+    background-color: black;
+} */
+.userlogin{
+    background-color:orange;
+    border: 5px solid yellow;
+    height: 350px;
+    width: 500px;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ .userlogin input{
+ height: 30px;
+ width: 200px;
+ }
+ /* #signin{
+     /* text-indent: 100px; */
+     /* transform: translateX(); */
+ /* } */ 
+ .userlogin button{
+     background-color: blue;
+     font-size: 25px;
+     color: white;
+     padding: 3px;
+     margin-left: 100px;
+ 
+ }
+ .userlogin label{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 800;
+ }
+ span{
+    font-size: 20px;
+    font-weight: 800;
+ }

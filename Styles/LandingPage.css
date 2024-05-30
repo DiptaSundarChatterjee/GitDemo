@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.landingpage {
+    background-color: lemonchiffon;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 30px;
+    height: 350px;
+    width: 500px;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    text-align: center;
+    padding: 20px;
+}
+
+.landingpage h1 {
+    margin-bottom: 30px;
+}
+
+.landpage_sub {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.landpage_sub img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.landpage_sub a {
+    color: black;
+    text-decoration: none;
+    transition: 1s;
+}
+
+.landpage_sub a:hover {
+    transform: scale(1.1);
+}

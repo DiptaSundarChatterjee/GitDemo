@@ -1,0 +1,30 @@
+{
+  "Admin": [
+    {
+      "id": "65c5",
+      "name": "Dipta",
+      "dob": "2002-10-14",
+      "email": "dipta@gmail.com",
+      "phone": "8249284586",
+      "password": "dipta"
+    }
+  ],
+  "User": [
+    {
+      "id": "25c6",
+      "name": "King",
+      "dob": "2024-05-05",
+      "email": "king@gmail.com",
+      "phone": "8984858682",
+      "password": "king"
+    },
+    {
+      "id": "d1f2",
+      "name": "bharat",
+      "dob": "2024-05-07",
+      "email": "bahrat17@gmail.com",
+      "phone": "9876543219",
+      "password": "bharat"
+    }
+  ]
+}
